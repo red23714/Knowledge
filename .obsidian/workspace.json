@@ -11,10 +11,14 @@
             "id": "9854c24e417452b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "C++/Литералы.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Литералы"
             }
           }
         ]
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C++/Литералы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Литералы"
             }
           },
           {
@@ -150,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2026-07-09 11.49.57.excalidraw.md",
+                "file": "C++/Литералы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-07-09 11.49.57.excalidraw"
+              "title": "Outline of Литералы"
             }
           },
           {
@@ -189,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0bd0a6b726341d4",
+  "active": "9854c24e417452b2",
   "lastOpenFiles": [
+    "C++/Литералы.md",
     "C++/Введение и структура программы.md",
     "C++/23/Вывод в консоль.md",
     "C++/23",
