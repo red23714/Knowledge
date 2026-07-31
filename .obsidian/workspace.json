@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "cf921083a45b613a",
+        "id": "1bf90756b821ee68",
         "type": "tabs",
         "children": [
           {
-            "id": "9854c24e417452b2",
+            "id": "362e4571a8bf07b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Литералы.md",
+                "file": "Программирование/C++/Преобразования типов.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Литералы"
+              "title": "Преобразования типов"
+            }
+          },
+          {
+            "id": "419faff03b051775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/C++/Инициализация переменных.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Инициализация переменных"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -194,13 +211,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9854c24e417452b2",
+  "active": "419faff03b051775",
   "lastOpenFiles": [
+    "Программирование/C++/Преобразования типов.md",
+    "Программирование/C++/Инициализация переменных.md",
+    "Программирование/C++/23/constexpr.md",
+    "Программирование/C++/Строки.md",
+    "Программирование/C++/Пространство имен.md",
+    "Программирование/C++/23/Вывод в консоль.md",
+    "Программирование/Литералы.md",
+    "Программирование/Модификатор, Квалификатор, Спецификатор.md",
+    "Программирование",
+    "Инициализация имен.md",
+    "Пространство имен]] [[Инициализация имен.md",
+    "Вывод в консоль.md",
     "C++/Литералы.md",
     "C++/Введение и структура программы.md",
-    "C++/23/Вывод в консоль.md",
-    "C++/23",
-    "C++",
+    "Программирование/C++/23",
+    "Программирование/C++",
     "Untitled.base",
     "Excalidraw/Drawing 2026-07-29 17.40.08.excalidraw.md",
     "Excalidraw",
