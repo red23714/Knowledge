@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1bf90756b821ee68",
+        "id": "da4ddc478983146e",
         "type": "tabs",
         "children": [
           {
-            "id": "362e4571a8bf07b0",
+            "id": "c0e551e38e9d98f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/C++/Преобразования типов.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Преобразования типов"
-            }
-          },
-          {
-            "id": "419faff03b051775",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/C++/Инициализация переменных.md",
+                "file": "Политех/Дискра/Основные понятия теории графов.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Инициализация переменных"
+              "title": "Основные понятия теории графов"
+            }
+          },
+          {
+            "id": "c7bb98554fc9f7c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Test"
             }
           }
         ],
@@ -211,13 +211,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "419faff03b051775",
+  "active": "c7bb98554fc9f7c2",
   "lastOpenFiles": [
-    "Программирование/C++/Преобразования типов.md",
+    "Политех/Дискра/Коспект Дискретка.pdf",
+    "Test.md",
+    "Политех/Дискра/Основные понятия теории графов.md",
+    "Политех/Дискра/N-элементные подмножества.md",
+    "Политех/Дискра/Discra.excalidraw.md",
     "Программирование/C++/Инициализация переменных.md",
-    "Программирование/C++/23/constexpr.md",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Политех/Дискра/Drawing 2026-08-02 20.00.43.excalidraw.md",
+    "Политех/Дискра",
+    "Политех/Untitled.md",
+    "Политех",
+    "Программирование/C++/Перегрузка функций.md",
+    "Программирование/C++/for-each.md",
+    "Программирование/C++/nullptr.md",
     "Программирование/C++/Строки.md",
+    "Программирование/C++/Опасные и безопасные преобразования типов.md",
+    "Программирование/C++/Ссылки.md",
     "Программирование/C++/Пространство имен.md",
+    "Преобразования типов.md",
+    "Программирование/C++/constexpr.md",
     "Программирование/C++/23/Вывод в консоль.md",
     "Программирование/Литералы.md",
     "Программирование/Модификатор, Квалификатор, Спецификатор.md",
@@ -230,11 +249,7 @@
     "Программирование/C++/23",
     "Программирование/C++",
     "Untitled.base",
-    "Excalidraw/Drawing 2026-07-29 17.40.08.excalidraw.md",
-    "Excalidraw",
     "Pasted Image 20260709115027_852.png",
-    "Drawing 2026-07-09 11.49.57.excalidraw.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
