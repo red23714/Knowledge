@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 7172298
       }
+    },
+    {
+      "query": "path:Политех/Дискра  ",
+      "color": {
+        "a": 1,
+        "rgb": 7300952
+      }
     }
   ],
   "collapse-display": true,
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.5668553336114625,
   "close": true
 }
