@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b9b447ae8526eed5",
+        "id": "edeaf782f8f81331",
         "type": "tabs",
         "children": [
           {
-            "id": "d42ac63205044e24",
+            "id": "8bca63246a386420",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Политех/Дискра/Основные понятия теории графов.md",
-                "mode": "preview",
+                "file": "Политех/Дискра/Ориентированные графы.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Основные понятия теории графов"
+              "title": "Ориентированные графы"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c39d0cddb41edfc4",
@@ -194,19 +195,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "glossary-linker:Glossary overview": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0bd0a6b726341d4",
+  "active": "8bca63246a386420",
   "lastOpenFiles": [
-    "Политех/Дискра/Основные понятия теории графов.md~",
-    "glossary/Степень вершины.md",
     "Политех/Дискра/Основные понятия теории графов.md",
-    "glossary/Обыкновенный граф.md",
-    "glossary/Порядок графа.md",
-    "glossary/Полный граф.md",
-    "glossary",
+    "Политех/Дискра/Ориентированные графы.md",
+    "Политех/Дискра/Определения.md",
     "Политех/ООП/Сложность программного обеспечения.md",
     "Политех/Дискра/Порядок чтения.md",
     "Политех/ООП",
@@ -236,6 +232,10 @@
     "Политех/Дискра/Представление графов на ЭВМ.md",
     "Политех/Дискра/Потоки в сетях.md",
     "Политех/Дискра/Поиск в ширину.md",
+    "Политех/Дискра/Поиск в графе.md",
+    "Политех/Дискра/Поиск в глубину.md",
+    "Политех/Дискра/Паросочетания в двудольных графах.md",
+    "Политех/Дискра/Коспект Дискретка.pdf",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
     "Pasted Image 20260709115027_852.png",
     "Untitled.canvas"
