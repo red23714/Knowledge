@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b9b447ae8526eed5",
+        "id": "87822ca4d804aea7",
         "type": "tabs",
         "children": [
           {
-            "id": "d42ac63205044e24",
+            "id": "cd64ad78137a5703",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Политех/Дискра/Основные понятия теории графов.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Основные понятия теории графов"
+              "title": "New tab"
             }
           }
         ]
@@ -181,61 +177,66 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "bases:Create new base": true,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "glossary-linker:Glossary overview": false
+      "tasknotes:Open mini calendar view": true,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
+      "tasknotes:Open Kanban board": false,
+      "tasknotes:Open Pomodoro statistics": true,
+      "tasknotes:Create new task": false,
+      "tasknotes:Open Pomodoro timer": true
     }
   },
   "active": "e0bd0a6b726341d4",
   "lastOpenFiles": [
-    "Политех/Дискра/Основные понятия теории графов.md~",
-    "glossary/Степень вершины.md",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Start Here.md",
+    "Untitled.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Tasks/Дедлайн по первому докладу.md",
+    "TaskNotes/Tasks/Дедлайн по четвертой лабе.md",
+    "TaskNotes/Tasks/Дедлайн по третьей лабе.md",
+    "TaskNotes/Tasks/Дедалйн по второй лабе.md",
+    "TaskNotes/Tasks/Дедлайн по первой лабе.md",
+    "TaskNotes/Tasks/Завтра дедлайн по форсайту на подачу заявления.md",
+    "TaskNotes/Tasks",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/pomodoro-stats.base",
+    "TaskNotes/Views",
+    "2026-09-04.md",
     "Политех/Дискра/Основные понятия теории графов.md",
+    "glossary/Степень вершины.md",
     "glossary/Обыкновенный граф.md",
     "glossary/Порядок графа.md",
     "glossary/Полный граф.md",
-    "glossary",
     "Политех/ООП/Сложность программного обеспечения.md",
     "Политех/Дискра/Порядок чтения.md",
-    "Политех/ООП",
     "Политех/Дискра/Алгоритм Диница.md",
     "Политех/Реверс/Задачи и цели.md",
     "Политех/Дискра/Маршруты, связность, циклы и разрезы.md",
-    "Политех/Реверс",
     "Горячие клавиши.md",
-    "Политех/Дискра/opencode.json",
-    "Политех/Дискра/Основные понятия теории графов.md.tmp.9241.2549d9595028",
-    "Политех/Дискра/Основные понятия теории графов.md.tmp.9241.a2f86cc065ee",
     "Политех/Дискра/Гамильтоновы графы.md",
     "Test.md",
-    "Политех/Дискра/Основные понятия теории графов.md.tmp.9241.6d2b5b531ab0",
-    "Политех/Дискра/Основные понятия теории графов.md.tmp.9241.f6349d440f19",
-    "Политех/Дискра/Основные понятия теории графов.md.tmp.9241.337f4d8de6d1",
-    "Политех/Дискра/Основные понятия теории графов.md.tmp.9241.3e4fca100156",
     "Программирование/C++/Ссылки.md",
     "Программирование/C++/Перегрузка функций.md",
     "Программирование/C++/Опасные и безопасные преобразования типов.md",
     "Программирование/C++/nullptr.md",
-    "Программирование/C++/for-each.md",
-    "Программирование/C++/constexpr.md",
-    "Политех/Дискра/Эйлеровы графы.md",
-    "Политех/Дискра/Случай неотрицательных весов. Алгоритм Дейкстры.md",
-    "Политех/Дискра/Пути в сетях.md",
-    "Политех/Дискра/Представление графов на ЭВМ.md",
-    "Политех/Дискра/Потоки в сетях.md",
-    "Политех/Дискра/Поиск в ширину.md",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
     "Pasted Image 20260709115027_852.png",
     "Untitled.canvas"
